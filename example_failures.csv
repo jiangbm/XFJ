@@ -1,0 +1,52 @@
+"Method","Name","Error","Occurrences"
+"GET","查看链接稿件详情","404 Client Error: Not Found for url: 查看链接稿件详情",18
+"POST","福建号订阅","502 Server Error: Bad Gateway for url: 福建号订阅",27
+"GET","查看影响力榜单","504 Server Error: Gateway Time-out for url: 查看影响力榜单",9
+"GET","查看活动详情数据成功","('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))",2
+"GET","查看直播稿件详情","('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))",5
+"GET","查看影响力榜单","404 Client Error: Not Found for url: 查看影响力榜单",115
+"POST","福建号打榜","504 Server Error: Gateway Time-out for url: 福建号打榜",5
+"POST","稿内投票","504 Server Error: Gateway Time-out for url: 稿内投票",5
+"GET","查看影响力榜单","('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))",4
+"GET","查看链接稿件详情","('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))",2
+"POST","福建号打榜","404 Client Error: Not Found for url: 福建号打榜",108
+"GET","查看活动列表数据","502 Server Error: Bad Gateway for url: 查看活动列表数据",27
+"GET","查看直播稿件详情","404 Client Error: Not Found for url: 查看直播稿件详情",43
+"GET","查看视频稿件详情","504 Server Error: Gateway Time-out for url: 查看视频稿件详情",3
+"POST","稿内投票","502 Server Error: Bad Gateway for url: 稿内投票",21
+"POST","福建号订阅","404 Client Error: Not Found for url: 福建号订阅",130
+"POST","活动报名","('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))",1
+"POST","福建号打榜","('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",55
+"GET","查看活动详情数据成功","('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",12
+"POST","活动报名","504 Server Error: Gateway Time-out for url: 活动报名",7
+"POST","稿内投票","404 Client Error: Not Found for url: 稿内投票",115
+"GET","查看活动列表数据","404 Client Error: Not Found for url: 查看活动列表数据",116
+"POST","福建号订阅","('Connection aborted.', ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))",1
+"GET","查看视频稿件详情","('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))",1
+"POST","账号登录","('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",2
+"GET","查看活动列表数据","504 Server Error: Gateway Time-out for url: 查看活动列表数据",9
+"POST","福建号打榜","502 Server Error: Bad Gateway for url: 福建号打榜",21
+"POST","活动报名","('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",15
+"GET","查看影响力榜单","500 Server Error:  for url: 查看影响力榜单",363
+"POST","稿内投票","('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))",1
+"POST","活动报名","404 Client Error: Not Found for url: 活动报名",66
+"GET","查看活动详情数据成功","404 Client Error: Not Found for url: 查看活动详情数据成功",51
+"GET","查看链接稿件详情","('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",16
+"POST","福建号订阅","504 Server Error: Gateway Time-out for url: 福建号订阅",5
+"GET","查看链接稿件详情","504 Server Error: Gateway Time-out for url: 查看链接稿件详情",2
+"POST","稿内投票","('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",37
+"GET","查看视频稿件详情","('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",16
+"POST","活动报名","502 Server Error: Bad Gateway for url: 活动报名",9
+"GET","查看视频稿件详情","404 Client Error: Not Found for url: 查看视频稿件详情",27
+"GET","查看活动详情数据成功","502 Server Error: Bad Gateway for url: 查看活动详情数据成功",8
+"POST","福建号订阅","('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",47
+"GET","查看影响力榜单","('Connection aborted.', ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))",2
+"GET","查看影响力榜单","('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",51
+"GET","查看影响力榜单","502 Server Error: Bad Gateway for url: 查看影响力榜单",26
+"POST","福建号订阅","('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))",2
+"GET","查看活动列表数据","('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))",3
+"GET","查看直播稿件详情","504 Server Error: Gateway Time-out for url: 查看直播稿件详情",5
+"GET","查看直播稿件详情","('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",7
+"POST","福建号打榜","('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))",4
+"GET","查看活动列表数据","('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",45
+"GET","查看活动详情数据成功","504 Server Error: Gateway Time-out for url: 查看活动详情数据成功",9
